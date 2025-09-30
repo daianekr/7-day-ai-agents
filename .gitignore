@@ -1,0 +1,11 @@
+__pycache__/
+logs/
+*.log
+.ipynb_checkpoints/
+.venv/
+.env/
+app/logs/
+app/__pycache__/
+app/.venv/
+app/.env/
+uv.lock
